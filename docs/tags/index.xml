@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nicolas&#39; Technical Nightmare</title>
-    <link>http://nodejh.com/tags/</link>
+    <link>https://nicolas-martin.github.io/technicalnightmare/tags/</link>
     <description>Recent content in Tags on Nicolas&#39; Technical Nightmare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-CA</language>
     <lastBuildDate>Tue, 13 Jun 2017 23:03:52 -0400</lastBuildDate>
     
-	<atom:link href="http://nodejh.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicolas-martin.github.io/technicalnightmare/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://nodejh.com/tags/first/</link>
+      <link>https://nicolas-martin.github.io/technicalnightmare/tags/first/</link>
       <pubDate>Tue, 13 Jun 2017 23:03:52 -0400</pubDate>
       
-      <guid>http://nodejh.com/tags/first/</guid>
+      <guid>https://nicolas-martin.github.io/technicalnightmare/tags/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://nodejh.com/tags/go/</link>
+      <link>https://nicolas-martin.github.io/technicalnightmare/tags/go/</link>
       <pubDate>Tue, 13 Jun 2017 23:03:52 -0400</pubDate>
       
-      <guid>http://nodejh.com/tags/go/</guid>
+      <guid>https://nicolas-martin.github.io/technicalnightmare/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://nodejh.com/tags/hugo/</link>
+      <link>https://nicolas-martin.github.io/technicalnightmare/tags/hugo/</link>
       <pubDate>Tue, 13 Jun 2017 23:03:52 -0400</pubDate>
       
-      <guid>http://nodejh.com/tags/hugo/</guid>
+      <guid>https://nicolas-martin.github.io/technicalnightmare/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post</title>
-      <link>http://nodejh.com/tags/post/</link>
+      <link>https://nicolas-martin.github.io/technicalnightmare/tags/post/</link>
       <pubDate>Tue, 13 Jun 2017 23:03:52 -0400</pubDate>
       
-      <guid>http://nodejh.com/tags/post/</guid>
+      <guid>https://nicolas-martin.github.io/technicalnightmare/tags/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using</title>
-      <link>http://nodejh.com/tags/using/</link>
+      <link>https://nicolas-martin.github.io/technicalnightmare/tags/using/</link>
       <pubDate>Tue, 13 Jun 2017 23:03:52 -0400</pubDate>
       
-      <guid>http://nodejh.com/tags/using/</guid>
+      <guid>https://nicolas-martin.github.io/technicalnightmare/tags/using/</guid>
       <description></description>
     </item>
     

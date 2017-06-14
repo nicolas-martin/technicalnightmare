@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Nicolas&#39; Technical Nightmare</title>
-    <link>http://nodejh.com/post/</link>
+    <link>https://nicolas-martin.github.io/technicalnightmare/post/</link>
     <description>Recent content in Posts on Nicolas&#39; Technical Nightmare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-CA</language>
     <lastBuildDate>Tue, 13 Jun 2017 23:03:52 -0400</lastBuildDate>
     
-	<atom:link href="http://nodejh.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nicolas-martin.github.io/technicalnightmare/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello</title>
-      <link>http://nodejh.com/post/hello/</link>
+      <link>https://nicolas-martin.github.io/technicalnightmare/post/hello/</link>
       <pubDate>Tue, 13 Jun 2017 23:03:52 -0400</pubDate>
       
-      <guid>http://nodejh.com/post/hello/</guid>
+      <guid>https://nicolas-martin.github.io/technicalnightmare/post/hello/</guid>
       <description>Hello hello test 123</description>
     </item>
     
