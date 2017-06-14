@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://nicolas-martin.github.io/technicalnightmare"
+baseurl = "https://nicolas-martin.github.io/technicalnightmare/"
 publishDir = "docs"
 # HTML Language Code Reference, such as en, zh-cn
 languageCode = "en-CA"
