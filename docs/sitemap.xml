@@ -3,59 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nicolas-martin.github.io//post/hello/</loc>
+    <loc>https://nicolas-martin.github.io/post/hello/</loc>
     <lastmod>2017-06-13T23:03:52-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://nicolas-martin.github.io//categories/</loc>
+    <loc>https://nicolas-martin.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nicolas-martin.github.io//tags/first/</loc>
-    <lastmod>2017-06-13T23:03:52-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://nicolas-martin.github.io//tags/go/</loc>
+    <loc>https://nicolas-martin.github.io/tags/first/</loc>
     <lastmod>2017-06-13T23:03:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nicolas-martin.github.io//tags/hugo/</loc>
+    <loc>https://nicolas-martin.github.io/tags/go/</loc>
     <lastmod>2017-06-13T23:03:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nicolas-martin.github.io//</loc>
+    <loc>https://nicolas-martin.github.io/tags/hugo/</loc>
     <lastmod>2017-06-13T23:03:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nicolas-martin.github.io//tags/post/</loc>
+    <loc>https://nicolas-martin.github.io/</loc>
     <lastmod>2017-06-13T23:03:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nicolas-martin.github.io//post/</loc>
+    <loc>https://nicolas-martin.github.io/tags/post/</loc>
     <lastmod>2017-06-13T23:03:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nicolas-martin.github.io//tags/</loc>
+    <loc>https://nicolas-martin.github.io/post/</loc>
     <lastmod>2017-06-13T23:03:52-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nicolas-martin.github.io//tags/using/</loc>
+    <loc>https://nicolas-martin.github.io/tags/</loc>
+    <lastmod>2017-06-13T23:03:52-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nicolas-martin.github.io/tags/using/</loc>
     <lastmod>2017-06-13T23:03:52-04:00</lastmod>
     <priority>0</priority>
   </url>
